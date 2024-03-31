@@ -1,0 +1,12 @@
+.card:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    transition: all 800ms;
+}
+.Know:hover{
+    cursor: pointer;
+    background-color: #3854BA;
+    color: white;
+    transition: all 800ms;
+}
